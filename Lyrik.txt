@@ -4,4 +4,6 @@ Rot
 Hellgrün
 Dunkelgrün
 Blau
+
+Schwarz
 Sind alles tolle Farben.
